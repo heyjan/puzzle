@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-img {
+img.header {
   display: block;
   margin-left: auto;
   margin-right: auto;
